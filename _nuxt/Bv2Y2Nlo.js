@@ -1,1 +1,0 @@
-import{_ as t,t as s,v as o,T as c}from"./CMAdRXZ3.js";const n={},r={class:"container-md px-0"};function a(e,_){return o(),s("div",r,[c(e.$slots,"default")])}const l=t(n,[["render",a]]);export{l as default};
