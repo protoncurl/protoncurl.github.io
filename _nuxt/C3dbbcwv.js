@@ -1,0 +1,1 @@
+import{_ as t,t as n,v as o,T as s}from"./D3g2OQXF.js";const c={},r={class:"container container-md px-1"};function a(e,_){return o(),n("div",r,[s(e.$slots,"default")])}const l=t(c,[["render",a]]);export{l as default};
